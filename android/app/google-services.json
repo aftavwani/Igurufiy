@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "770231149012",
+    "project_id": "igurufy-app",
+    "storage_bucket": "igurufy-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770231149012:android:a565a294d6d766fef3b641",
+        "android_client_info": {
+          "package_name": "com.app.igurufy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhMoHeLpnQwti5RGxrjEQqWAeSnpFhBEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

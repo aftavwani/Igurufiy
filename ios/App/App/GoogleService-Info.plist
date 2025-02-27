@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyA4H7o7WqLp_g0ykBOAzufs1musAqdwFc0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>145330847809</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Mediaz.IGurufyApp4259</string>
+	<key>PROJECT_ID</key>
+	<string>igurufy-3b768</string>
+	<key>STORAGE_BUCKET</key>
+	<string>igurufy-3b768.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:145330847809:ios:45c8f5d99ec8963b0a06c0</string>
+</dict>
+</plist>
